@@ -3,7 +3,7 @@
 ## Overview of Analysis
 ### Purpose
 
-The purpose of this analysis was to assess how ride sharing data for Pyber differs based on the city type (i.e. urban, suburban, rural). In particular, it looks at the amount of rides, drivers, and fare totals and averages of each city type to see if there is any correlation. Finally, this analysis weighs in with helpful recommendations on how these differences can be leveraged by decision-makers at PyBer.
+The purpose of this analysis was to assess how ride sharing data for Pyber differs based on the city type (i.e. urban, suburban, rural). In particular, it looks at the amount of rides, drivers, and fare totals and averages of each city type to see if there is any correlation. Finally, this analysis weighs in with helpful recommendations on how PyBer decision-makers can use these differences to direct positive changes within the organization.
 
 ## Results
 ### Pyber Summary DataFrame
