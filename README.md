@@ -20,9 +20,9 @@ Additionally, the Pyber Summary DataFrame also shows:
 - suburban cities have the second lowest, and
 - rural cities have the highest averages.
 
-The multiple-line graph image below shows the total weekly fares for each city type.
-
 ### Total Fares by City Type
+
+The multiple-line graph image below shows the total weekly fares for each city type.
 
 ![Pyber_fare_summary](analysis/Pyber_fare_summary.png)
 From the image above, we see urban cities consistently had the highest total fares, surburban the second highest, and rural cities the lowest total fares based on the data time frame (2019, January through April).
