@@ -33,4 +33,4 @@ From the image above, we see urban cities consistently had the highest total far
 Based on the results, the following recommendations are offered for consideration by Pyber's CEO and other decision makers:
 1) Offer higher wages and income packages to Pyber's urban city drivers to address the disparity in which urban city drivers as a whole bring in the highest total fares for Pyber and yet earn on average the lowest fare per driver.
 2) Increase driver recruitment efforts in rural cities to increase Pyber's total number of rural city drivers.
-3) Preemptively set rate caps for rural cities to mitigate the risk of future lawsuits in instances where drivers may be inclined to take advantage of riders by setting unreasonably high fares to exploit the fact that they have the lowest total drivers.
+3) Preemptively set rate caps for rural cities to mitigate the risk of future lawsuits in instances where drivers may be inclined to take advantage of riders by setting unreasonably high fares per ride to exploit the fact that they have the lowest total drivers.
